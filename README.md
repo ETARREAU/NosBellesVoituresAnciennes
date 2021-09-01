@@ -8,4 +8,4 @@ Les mots de passe sont:
 EdgarT: TEdgar.
 SuperAdmin: lullaby.
 
-Site tournant sur MAMP à l'heure actuel.
+Site fonctionnant sur MAMP à l'heure actuel.
