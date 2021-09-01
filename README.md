@@ -1,5 +1,5 @@
 # nosBellesVoituresAnciennes
-Site projet pour la présentation au titre de Développeur Web et Web Mobile
+Site projet pour la présentation au titre de Développeur Web et Web Mobile, partie Back-End.
 
 2 comptes sont préalablement fabriqué lors de la création de la BDD, à savoir "EdgarT" et "SuperAdmin".
 
