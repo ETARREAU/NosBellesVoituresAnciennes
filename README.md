@@ -8,4 +8,4 @@ Les mots de passe sont:
 EdgarT: TEdgar.
 SuperAdmin: lullaby.
 
-Site fonctionnant sur MAMP à l'heure actuel.
+Site fonctionnant sur MAMP avec PHPMYADMIN à l'heure actuel. Les commandes de création de tables sont rédigés dans le fichier FonctionSQL.sql
